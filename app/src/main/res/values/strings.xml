@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Free Call</string>
+    <string name="start">Start</string>
+    <string name="facebook_app_id">853840095021652</string>
+    <string name="fb_login_protocol_scheme">fb853840095021652</string>
+    <string name="hvhc_chat_bot">MAL Chatbot</string>
+    <string name="_2021">2021</string>
+    <string name="default_notification_channel_id">default_message_notification</string>
+    <string name="notify_invite_call">Some one is calling you…</string>
+    <string name="notify_wait_status">Waiting me for a moment… </string>
+    <string name="bell_ringing">Ringing…</string>
+    <string name="cancel_by_partner">The call was canceled by the partner!</string>
+    <string name="missed_call">Missed call! Time out of waiting.</string>
+    <string name="waiting_time_out">Time out of waiting!</string>
+    <string name="nobody_online_notifi">Nobody is online, please try again later!</string>
+    <string name="invitation_success_notifi">Invitation send successfully!</string>
+
+</resources>
